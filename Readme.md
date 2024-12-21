@@ -6,7 +6,8 @@ Community Editing of Educational Content is a decentralized platform that empowe
 ## Contract Address
 0xDaC4Ef3Ee63DcE862d6aF82F12A000fAE25976fd
 
-![Screenshot from 2024-12-21 14-28-15](https://github.com/user-attachments/assets/b1de5396-7607-4139-91a8-628d225aa44a)
+![image](https://github.com/user-attachments/assets/34d8878a-4b91-49c7-8d5e-14c5f0387fc1)
+
 
 
 
