@@ -6,6 +6,10 @@ Community Editing of Educational Content is a decentralized platform that empowe
 ## Contract Address
 0xDaC4Ef3Ee63DcE862d6aF82F12A000fAE25976fd
 
+![Screenshot from 2024-12-21 14-28-15](https://github.com/user-attachments/assets/b1de5396-7607-4139-91a8-628d225aa44a)
+
+
+
 ## Project Vision
 The vision of this project is to create a global community-driven platform where individuals can collaboratively build and improve educational resources. By decentralizing the editing and approval process, we aim to foster a transparent, fair, and high-quality educational repository that is accessible to everyone.
 
